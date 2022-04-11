@@ -1,12 +1,12 @@
-## THP W11D1 - Back to Javascript!
+## THP W11D1 - Developer track - Back to Javascript!
 
 ### :one: Content :scroll:
 
-- **Exercice 1 :** On commence par un petit échauffement. orsque l'utilisateur va cliquer sur le footer (portant le tag <footer>), tu vas afficher le mot "clique" en console.Cette fonctionnalité doit être codée avec un addEventListener ("click", function(){ } car c'est une bonne habitude à prendre ! 😇
+- **Exercice 1 :** Let's start with a little warm-up exercise we already carried out, a few weeks ago, around a list of famous entrepreneurs that we are going to handle, retreat, manipulate... 😇
 
-- **Exercice 2 :** On va enfin faire fonctionner ce satané "Hamburger Menu" qui s'affiche depuis le début mais qui n'actionne rien quand on clique dessus. Tu vas faire que si quelqu'un clique sur ce bouton, l'élément HTML portant l'Id navbarHeader perde sa classe collapse. Une fois que ça, ça marche, fait que si on clique à nouveau dessus, la classe collapse soit rajoutée à nouveau à l'élément portant l'Id navbarHeader
+- **Exercice 2 :** The 2nd round of exercises is based on the ol' classic book collection or so-called "library model", which makes it possible to work on sorting the books, determinating the most or the least borrowed, etc.
 
-- **Exercice 3 :** À présent, on va faire que si on clique sur le bouton "Edit" de la première card, le texte de la card va se mettre en rouge de façon irréversible (sauf si on recharge la page). À toi de jouer !
+- **Exercice 3 :** Finally, here comes a good batch of data manipulations based on a large data file formatted as a table of hashes. Just what's needed to use the "map", "filter", "find", "findIndex", "sort", "reverse" and many other methods!
 
 ### :two: How to :bulb:
 

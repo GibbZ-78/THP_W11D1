@@ -39,10 +39,10 @@ console.log (`The MOST rented book is: '${myBooks.at(-1).title}'.`);
 
 console.log("Suppressiondu livre dont l'ID est 133712 [Splice].");
 console.log("Affichage AVANT suppression.");
-console.log(books);
-books.splice(books.findIndex(my_hash => {return my_hash.id == 133712}), 1);
+console.table(books);
 console.log("Affichage APRES suppression.");
-console.log(books);
+books.splice(books.findIndex(my_hash => {return my_hash.id == 133712}), 1);
+console.table(books);
 
 /*****************
  *  End of code  *
